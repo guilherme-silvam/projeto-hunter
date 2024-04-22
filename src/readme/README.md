@@ -26,7 +26,7 @@ Site HUNTER X HUNTER
 ## Visualização
 
 Aqui está uma prévia de como o site aparece(Clique na imagem caso queira acessar o site)
-[<img src="../imagens/gif.tela.mp4">](https://guilherme-silvam.github.io/projeto-hunter/)
+[<img src="../imagens/print.png">](https://guilherme-silvam.github.io/projeto-hunter/)
 
 ## Contato
 
